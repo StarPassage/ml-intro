@@ -12,4 +12,4 @@ gk_reflexes,gk_positioning;gk_reflexes,gk_handling;gk_handling,gk_positioning;sl
 34
 20
 SL Benfica
-15
+18
